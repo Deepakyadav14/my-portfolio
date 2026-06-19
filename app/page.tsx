@@ -1,5 +1,5 @@
 import React from 'react';
-import {  Mail, ExternalLink, Code2, Briefcase, User, Terminal, Database, Globe, GraduationCap, Phone } from 'lucide-react';
+import { LuMail as Mail, LuExternalLink as ExternalLink, LuCode as Code2, LuBriefcase as Briefcase, LuUser as User, LuTerminal as Terminal, LuDatabase as Database, LuGlobe as Globe, LuGraduationCap as GraduationCap, LuPhone as Phone } from 'react-icons/lu';
 import { FaGithub as Github, FaLinkedin as Linkedin } from "react-icons/fa";
 const developerData = {
   name: "Deepak Yadav",
